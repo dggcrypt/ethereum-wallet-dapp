@@ -1,0 +1,14 @@
+# TypeScript files
+*.ts linguist-language=TypeScript
+
+# JSON files (for any ABI files or configuration files)
+*.json linguist-language=JSON
+
+# Markdown files (for documentation)
+*.md linguist-language=Markdown
+
+# Solidity files
+*.sol linguist-language=Solidity
+
+# JavaScript files
+*.js linguist-language=JavaScript
